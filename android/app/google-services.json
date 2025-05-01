@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "595892737065",
+    "project_id": "qartal-3d897",
+    "storage_bucket": "qartal-3d897.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595892737065:android:09cb62cceb334d61d8b838",
+        "android_client_info": {
+          "package_name": "com.mycompany.qartalnext"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPdgVv-Lm5aBzwSbM6brvKD4oiEiNCu0c"
+        },
+        {
+          "current_key": "AIzaSyDLVyfNGcNYknSyEGlavdrVDjgdGMZXKe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595892737065:android:a10717b8a1ac4f02d8b838",
+        "android_client_info": {
+          "package_name": "com.mycompany.voyonixweb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPdgVv-Lm5aBzwSbM6brvKD4oiEiNCu0c"
+        },
+        {
+          "current_key": "AIzaSyDLVyfNGcNYknSyEGlavdrVDjgdGMZXKe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
